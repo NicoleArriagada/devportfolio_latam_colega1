@@ -54,7 +54,7 @@ Si deseas publicar tu portafolio en GitHub Pages:
 3. Guardar cambios y esperar unos minutos.
 4. Tu portafolio estará disponible en:
    ```
-   https://wiimri.github.io/devportfolio/
+   https://usuario.github.io/devportfolio/
    ```
 
 ## 📝 Autor
