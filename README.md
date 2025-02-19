@@ -1,6 +1,6 @@
 # 📌 Prueba 1 - Williams Arias
 
-Este es un portafolio web desarrollado por **Williams Arias** para presentar su perfil profesional, experiencia, habilidades y proyectos. Implementado con **HTML, CSS y Bootstrap**.
+Portafolio web desarrollado por **Williams Arias** para presentar su perfil profesional, experiencia, habilidades y proyectos. Implementado con **HTML, CSS y Bootstrap**.
 
 ## 📸 Capturas de Pantalla
 
